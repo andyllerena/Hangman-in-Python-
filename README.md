@@ -16,6 +16,6 @@ This is a simple Hangman game implemented in Python. In this game, the player ha
 
 ## Files
 
-- `hangman.py`: The main game file.
+- `main.py`: The main game file.
 - `hangman_art.py`: Contains ASCII art for the Hangman figure.
 - `hangman_words.py`: Contains the list of words to be used in the game.
