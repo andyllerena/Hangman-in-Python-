@@ -4,7 +4,7 @@ This is a simple Hangman game implemented in Python. In this game, the player ha
 
 ## How to Play
 
-1. Run the game by executing the `hangman.py` file.
+1. Run the game by executing the `main.py` file.
 2. You will be shown a series of underscores representing the letters in the word to be guessed.
 3. Enter a letter to guess. If the letter is correct, it will be revealed in the word. If not, you will lose a life.
 4. Continue guessing letters until you either guess the word correctly or run out of lives.
